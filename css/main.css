@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font-family: PT, serif;
+  /*font-family: PT, serif;*/
   background-color: #c9b5ab;
   line-height: 1.5;
   font-weight: normal;
@@ -22,13 +22,13 @@ figcaption {
 
 h1, h2 {
   color: #3f1622;
-  font-family: PT, sans-serif;
+  /*font-family: PT, sans-serif;*/
   font-weight: bold;
 }
 
 nav {
   font-size: 1.125rem;
-  font-family: PT, sans-serif;
+  /*font-family: PT, sans-serif;*/
   font-weight: bold;
 }
 
