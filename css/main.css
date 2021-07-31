@@ -1,9 +1,41 @@
 html {
   box-sizing: border-box;
-  font-family: PT, sans-serif;
+  font-family: PT, serif;
   background-color: #c9b5ab;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+img {
+  width: 100%;
+}
+
+figcaption {
+  font-style: italic;
+  text-align: center;
 }
 
 h1, h2 {
   color: #3f1622;
+  font-family: PT, sans-serif;
+}
+
+nav {
+  font-size: 1.125rem;
+  font-family: PT, sans-serif;
+}
+
+nav ol {
+  list-style-type: none;
+}
+
+nav a {
+  text-decoration: none;
+  color: #8f2440;
+}
+
+nav a:hover {
+  text-decoration: underline;
 }
