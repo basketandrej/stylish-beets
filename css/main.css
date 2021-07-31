@@ -1,0 +1,9 @@
+html {
+  box-sizing: border-box;
+  font-family: PT, sans-serif;
+  background-color: #c9b5ab;
+}
+
+h1, h2 {
+  color: #3f1622;
+}
