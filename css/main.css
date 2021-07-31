@@ -2,6 +2,9 @@ html {
   box-sizing: border-box;
   font-family: PT, serif;
   background-color: #c9b5ab;
+  line-height: 1.5;
+  font-weight: normal;
+  font-size: 1.125rem;
 }
 
 *, *::before, *::after {
@@ -20,6 +23,7 @@ figcaption {
 h1, h2 {
   color: #3f1622;
   font-family: PT, sans-serif;
+  font-weight: bold;
 }
 
 nav {
@@ -40,14 +44,15 @@ nav ol {
   list-style-type: none;
 }
 
-nav a {
-
-}
-
 nav a:hover {
   color: #222;
 }
 
+blockquote {
+  font-size: 1.5rem;
+  font-style: italic;
+  font-weight: lighter;
+}
 
 /* ## Details
 
